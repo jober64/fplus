@@ -1,7 +1,7 @@
 # fiftyplus
 
 ## About
-A plugin which brings up a cheat sheet.
+A vim plugin which brings up a cheat sheet.
 
 ## Instructions
 
